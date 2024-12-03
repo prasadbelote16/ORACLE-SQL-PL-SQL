@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customers>
+    <customer>
+        <id>103</id>
+        <name>Prasad Belote</name>
+        <email>prasad.belote@example.com</email>
+    </customer>
+    <customer>
+        <id>104</id>
+        <name>Anish Bhopi</name>
+        <email>anish.bhopi@example.com</email>
+    </customer>
+</customers>
